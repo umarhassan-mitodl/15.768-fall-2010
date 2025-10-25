@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains a case overview, guidelines for case write-ups,
   information on grading, and study questions for the cases and readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
